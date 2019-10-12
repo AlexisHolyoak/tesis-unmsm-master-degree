@@ -1,3 +1,13 @@
 * Adaptación del marco de desarrollo y servicios de Amplify para la gestión de negocios de rentas y alquiler en el Perú
 
-* Adaptación del marco de desarrollo y servicios de Amplify para el desarrollo de software
+* Adaptación del marco de desarrollo y servicios de Amplify para la construcción de software
+
+* Adaptación del marco de desarrollo y servicios de AWS Amplify para la construcción de software bajo un enfoque ágil
+
+* Adaptación del marco de desarrollo y servicios de AWS Amplify para la generación de experiencia de realidad virtual en viajes y hosteleria.
+
+* Adaptación del marco de desarrollo y servicios de AWS Amplify para la generación de experiencia de realidad virtual en viajes y hosteleria
+
+* Adaptación del marco de desarrollo y servicios de AWS Amplify para la generación de experiencia de realidad virtual en negocios de hosteleria. Caso practico: Alquiler de cuartos el faustiniano
+
+* Adaptación del marco de desarrollo y servicios de AWS Amplify para la construcción de software de realidad aumentada
