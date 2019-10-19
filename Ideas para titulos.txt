@@ -11,3 +11,9 @@
 * Adaptación del marco de desarrollo y servicios de AWS Amplify para la generación de experiencia de realidad virtual en negocios de hosteleria. Caso practico: Alquiler de cuartos el faustiniano
 
 * Adaptación del marco de desarrollo y servicios de AWS Amplify para la construcción de software de realidad aumentada
+
+* Metodología para la implementación de realidad virtual en negocios de hosteleria
+
+* Metodología para la implementación de realidad virtual en sitios web de negocios de hosteleria
+
+* Marco de trabajo para la implementación de realidad virtual en sitios web de negocios de hosteleria
