@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T00:32:21.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="b6Y4RtiG1Rps4vbMpnul" version="13.10.0" type="github"><diagram id="lBNZZ413IBmhQEKihpCo" name="Page-1">zZZNj5swEIZ/DcdKgBM2e2yyH03VSCvl0G4v1dSeBasGU9sssL++9mIClERKpSrKhdiPZ+zMO69JArLJm0cFZbaTDEUQh6wJyF0Qx1FIVvbDkbYjy1XYgVRx5oMGsOdv2Gd6WnGGehJopBSGl1NIZVEgNRMGSsl6GvYixfTUElKcgT0FMadfOTNZR1fxzcA/IU+z/uQoue1WcuiDfSU6AybrESL3AdkoKU03ypsNCider0uX93Bi9fDFFBbmnATWLn5sv/1uiH5Oq+fH5OEz+f7B7/IKovIF79BIJoVMgw0JPt6B6x2+P7TTUwjZEy1fTG2Pt0NkFQXDX6XuWmGfCkFwBsztzpWpQHgZTNtrq2ueCyjsbJ2ZXFgY2SHNuGBfoJWVK0sboL/62Vqhtg556muO/kI7cL4LLbVpyng3JQ5kUvE3WRgQPmIAe3eE363OuMF9CdQl1tbSlnmJUBlsTmofHTpqrwLKHI1qbYhP6D3gL0Hip/XIUTeeZSM3kYWH4F2cHnYeGm0Hvtf/0PflrO9PrhOQc1uR6/C24JSf3bOx3HF4rmanHXlSyCPKRbcXVS6eKbeRhTaqopS7K7MmxbWJFi/nqh1esJdRjcz9pir8Cdcm1eKIweLwolItZlJt81JgbsuCq7VYcky3/2UxOx1+Jt/XRn82yP0f</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-27T01:01:50.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="V-JlP4xYg0LPc0HskcdF" version="13.10.0" type="github">
+  <diagram id="lBNZZ413IBmhQEKihpCo" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dy4_IXqx3sYguYG6FJ3Z-1" value="Metodología de desarrollo de software educativos con realidad virtual" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=60;horizontal=0;horizontalStack=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="20" y="60" width="870" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="dy4_IXqx3sYguYG6FJ3Z-5" value="Planeamiento Inicial" style="swimlane;html=1;startSize=20;" parent="dy4_IXqx3sYguYG6FJ3Z-1" vertex="1">
+          <mxGeometry x="60" width="190" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-3" value="Evaluación de personalidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-5">
+          <mxGeometry x="40" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-4" value="Objetivos de aprendizaje" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-5">
+          <mxGeometry x="40" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-5" value="Definición de equipo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-5">
+          <mxGeometry x="40" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-9" value="Adquisición del conocimiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-5">
+          <mxGeometry x="40" y="240" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dy4_IXqx3sYguYG6FJ3Z-2" value="Diseño" style="swimlane;html=1;startSize=20;" parent="dy4_IXqx3sYguYG6FJ3Z-1" vertex="1">
+          <mxGeometry x="250" width="210" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-1" value="Diseño de escenas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-2">
+          <mxGeometry x="55" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-6" value="Diseño de arquitectura" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-2">
+          <mxGeometry x="55" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dy4_IXqx3sYguYG6FJ3Z-3" value="Construcción" style="swimlane;html=1;startSize=20;" parent="dy4_IXqx3sYguYG6FJ3Z-1" vertex="1">
+          <mxGeometry x="460" width="200" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-7" value="Definición de herramientas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-3">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-8" value="Acceso libre al conocimiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-3">
+          <mxGeometry x="40" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dy4_IXqx3sYguYG6FJ3Z-4" value="Implementación" style="swimlane;html=1;startSize=20;" parent="dy4_IXqx3sYguYG6FJ3Z-1" vertex="1">
+          <mxGeometry x="660" width="210" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
