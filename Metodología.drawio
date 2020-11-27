@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T01:01:50.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="V-JlP4xYg0LPc0HskcdF" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T01:44:29.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="u0zdn3WJB3qNacDK_RrX" version="13.10.0" type="github">
   <diagram id="lBNZZ413IBmhQEKihpCo" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,10 +26,13 @@
           <mxGeometry x="250" width="210" height="340" as="geometry" />
         </mxCell>
         <mxCell id="r2kU3CxO31uxIWreI55o-1" value="Diseño de escenas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-2">
-          <mxGeometry x="55" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="50" y="170" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r2kU3CxO31uxIWreI55o-6" value="Diseño de arquitectura" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-2">
-          <mxGeometry x="55" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="50" y="40" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-10" value="Estrategias de aprendizaje" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-2">
+          <mxGeometry x="50" y="100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dy4_IXqx3sYguYG6FJ3Z-3" value="Construcción" style="swimlane;html=1;startSize=20;" parent="dy4_IXqx3sYguYG6FJ3Z-1" vertex="1">
           <mxGeometry x="460" width="200" height="340" as="geometry" />
@@ -37,11 +40,17 @@
         <mxCell id="r2kU3CxO31uxIWreI55o-7" value="Definición de herramientas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-3">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r2kU3CxO31uxIWreI55o-8" value="Acceso libre al conocimiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-3">
-          <mxGeometry x="40" y="170" width="120" height="40" as="geometry" />
+        <mxCell id="r2kU3CxO31uxIWreI55o-8" value="Configuración de acceso libre al conocimiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-3">
+          <mxGeometry x="40" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-11" value="Pruebas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-3">
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dy4_IXqx3sYguYG6FJ3Z-4" value="Implementación" style="swimlane;html=1;startSize=20;" parent="dy4_IXqx3sYguYG6FJ3Z-1" vertex="1">
           <mxGeometry x="660" width="210" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="r2kU3CxO31uxIWreI55o-12" value="Feedback de usuarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-4">
+          <mxGeometry x="55" y="100" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
