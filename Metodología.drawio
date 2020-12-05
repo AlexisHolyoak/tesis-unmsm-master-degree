@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T02:32:39.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZQwfRMHTzaIim0gRorZc" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T06:16:55.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jf8ZDXsxMcEawETkUUd7" version="13.10.8" type="github">
   <diagram id="lBNZZ413IBmhQEKihpCo" name="Page-1">
     <mxGraphModel dx="1278" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,28 +43,25 @@
         <mxCell id="dy4_IXqx3sYguYG6FJ3Z-4" value="Construcción" style="swimlane;html=1;startSize=20;" parent="dy4_IXqx3sYguYG6FJ3Z-1" vertex="1">
           <mxGeometry x="630" width="210" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="ZIAB65wcXX-fbfIE_N7W-5" value="Definición de herramientas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-4">
-          <mxGeometry x="45" y="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIAB65wcXX-fbfIE_N7W-6" value="Configuración de acceso libre al conocimiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-4">
+        <mxCell id="ZIAB65wcXX-fbfIE_N7W-6" value="Configuración de acceso libre al conocimiento" style="rounded=0;whiteSpace=wrap;html=1;" parent="dy4_IXqx3sYguYG6FJ3Z-4" vertex="1">
           <mxGeometry x="45" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZIAB65wcXX-fbfIE_N7W-7" value="Pruebas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-4">
+        <mxCell id="ZIAB65wcXX-fbfIE_N7W-7" value="Pruebas" style="rounded=0;whiteSpace=wrap;html=1;" parent="dy4_IXqx3sYguYG6FJ3Z-4" vertex="1">
           <mxGeometry x="45" y="270" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZIAB65wcXX-fbfIE_N7W-8" value="Configuración de escena por perfil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-4">
+        <mxCell id="ZIAB65wcXX-fbfIE_N7W-8" value="Configuración de escena por perfil" style="rounded=0;whiteSpace=wrap;html=1;" parent="dy4_IXqx3sYguYG6FJ3Z-4" vertex="1">
           <mxGeometry x="45" y="100" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZIAB65wcXX-fbfIE_N7W-1" value="Implementación" style="swimlane;html=1;startSize=20;" vertex="1" parent="dy4_IXqx3sYguYG6FJ3Z-1">
+        <mxCell id="ZIAB65wcXX-fbfIE_N7W-1" value="Implementación" style="swimlane;html=1;startSize=20;" parent="dy4_IXqx3sYguYG6FJ3Z-1" vertex="1">
           <mxGeometry x="840" width="210" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="ZIAB65wcXX-fbfIE_N7W-2" value="Feedback de usuarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZIAB65wcXX-fbfIE_N7W-1">
+        <mxCell id="ZIAB65wcXX-fbfIE_N7W-2" value="Feedback de usuarios" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZIAB65wcXX-fbfIE_N7W-1" vertex="1">
           <mxGeometry x="55" y="240" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZIAB65wcXX-fbfIE_N7W-3" value="Procesos de release" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZIAB65wcXX-fbfIE_N7W-1">
+        <mxCell id="ZIAB65wcXX-fbfIE_N7W-3" value="Procesos de release" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZIAB65wcXX-fbfIE_N7W-1" vertex="1">
           <mxGeometry x="55" y="80" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZIAB65wcXX-fbfIE_N7W-4" value="Optimización" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZIAB65wcXX-fbfIE_N7W-1">
+        <mxCell id="ZIAB65wcXX-fbfIE_N7W-4" value="Optimización" style="rounded=0;whiteSpace=wrap;html=1;" parent="ZIAB65wcXX-fbfIE_N7W-1" vertex="1">
           <mxGeometry x="52.5" y="150" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vnNq7ZpsH6k3EgFDmd_R-3" value="Estilos de aprendizaje Felder y silvermen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
